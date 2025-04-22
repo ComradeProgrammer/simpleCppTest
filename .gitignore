@@ -1,0 +1,7 @@
+.bazelbsp 
+bazel-bin
+bazel-cppsimpletest
+bazel-out
+bazel-testlogs
+bazel-bazel
+.DS_Store
